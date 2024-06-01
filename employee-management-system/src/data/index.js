@@ -1,20 +1,44 @@
 const employeesData = [
-  // {
-  //   id: 1,
-  //   firstName: 'Susan',
-  //   lastName: 'Jordon',
-  //   email: 'susan@example.com',
-  //   salary: '95000',
-  //   date: '2019-04-11'
-  // },
-  // {
-  //   id: 2,
-  //   firstName: 'Adrienne',
-  //   lastName: 'Doak',
-  //   email: 'adrienne@example.com',
-  //   salary: '80000',
-  //   date: '2019-04-17'
-  // },
+  {
+    id: 1,
+    firstName: 'Yera',
+    lastName: 'koushik',
+    email: 'yera@gamil.com',
+    salary: '95000',
+    date: '2023-04-11'
+  },
+  {
+    id: 2,
+    firstName: 'Thiru',
+    lastName: 'sai',
+    email: 'Thirusai@gamil.com',
+    salary: '80000',
+    date: '2019-04-17'
+  },
+  {
+    id: 3,
+    firstName: 'Asil',
+    lastName: 'ganesh',
+    email: 'Asilganesh@gamil.com',
+    salary: '79000',
+    date: '2019-05-01'
+  },
+  {
+    id: 4,
+    firstName: 'doola',
+    lastName: 'ashith',
+    email: 'ashith@gamil.com',
+    salary: '56000',
+    date: '2019-05-03'
+  },
+  {
+    id: 5,
+    firstName: 'shaart',
+    lastName: 'sai',
+    email: 'shaart@gamil.com',
+    salary: '65000',
+    date: '2019-06-13'
+  },
   // {
   //   id: 3,
   //   firstName: 'Rolf',
